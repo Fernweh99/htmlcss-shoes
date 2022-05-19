@@ -23,26 +23,26 @@ h2 {
 }
 
 /* Main */
-section.full-page {
+.full-page {
     height: 100vh;
     display: block;
 }
 
 #shoes01 {
     background-color: red;
-    max-height: 100%;
+    height: 100%;
     position: relative;
 }
 
 #shoes02 {
     background-color: #008001;
-    max-height: 100%;
+    height: 100%;
     position: relative;
 }
 
 #shoes03 {
     background-color: #ffff00;
-    max-height: 100%;
+    height: 100%;
     position: relative;
 }
 
